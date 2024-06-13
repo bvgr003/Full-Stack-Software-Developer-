@@ -1,0 +1,46 @@
+body {
+    background-color: darkslategrey;
+    text-align: center;
+}
+
+header {
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 600px;
+    width: inherit;
+    background-image: url(Logos/Virtual%20Tech%20Solutions%20Logo.png);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+footer {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+img {
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 300px;
+}
+
+p {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
