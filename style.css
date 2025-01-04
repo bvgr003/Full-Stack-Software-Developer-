@@ -8,10 +8,11 @@ header {
     border-radius: 10px;
     height: 600px;
     width: inherit;
-    background-image: url(Logos/Virtual%20Tech%20Solutions%20Logo.png);
+    background-image: url(Logos/bvgre.png);
     object-fit: contain;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 main {
